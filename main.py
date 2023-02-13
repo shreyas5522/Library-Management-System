@@ -74,6 +74,10 @@ if __name__ == "__main__":
             elif search_type == 3:
                 ISBN = input("Enter book ISBN: ")
                 books = library.search_book(ISBN=ISBN)
+            else:
+                print("Quitting Library Management System...")
+                break
+
 if books:
     for book in books:
         print(
