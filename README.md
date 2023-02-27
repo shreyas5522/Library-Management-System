@@ -20,4 +20,4 @@ A Python program to manage a library, keeping track of the books in the library 
 Feel free to fork the repository and make changes. If you have any improvements, submit a pull request.
 
 ## License
-This project is licensed under the [insert license name here] license. See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the GPLv3 license. See the [GPLv3 LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.html) file for more information.
